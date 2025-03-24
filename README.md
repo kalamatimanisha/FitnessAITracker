@@ -1,4 +1,4 @@
-# AI-Based Personal Fitness Tracker
+# AI-Based Fitness Tracker
 
 This project is a complete AI-based fitness tracking system with features such as:
 - User Login/Signup
